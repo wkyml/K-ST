@@ -1,0 +1,40 @@
+require "st-syntax.k"
+require "st-configuration.k"
+require "st-semantic-enum.k"
+require "st-semantic-struct.k"
+require "st-semantic-array.k"
+require "st-semantic-common.k"
+require "st-semantic-num.k"
+require "st-semantic-bool.k"
+require "st-semantic-string.k"
+require "st-semantic-if.k"
+require "st-semantic-case.k"
+require "st-semantic-while.k"
+require "st-semantic-for.k"
+require "st-semantic-repeat.k"
+require "st-semantic-bit.k"
+require "st-semantic-time.k"
+require "st-semantic-trans.k"
+require "st-semantic-fun.k"
+
+module ST
+
+    imports ST-SYNTAX
+    imports ST-CONFIGURATION
+    imports ST-SEMANTIC-ENUM
+    imports ST-SEMANTIC-STRUCT
+    imports ST-SEMANTIC-ARRAY
+    imports ST-SEMANTIC-COMMON
+    imports ST-SEMANTIC-NUM
+    imports ST-SEMANTIC-BOOL
+    imports ST-SEMANTIC-STRING
+    imports ST-SEMANTIC-IF
+    imports ST-SEMANTIC-CASE
+    imports ST-SEMANTIC-WHILE
+    imports ST-SEMANTIC-FOR
+    imports ST-SEMANTIC-REPEAT
+    imports ST-SEMANTIC-BIT
+    imports ST-SEMANTIC-TIME
+    imports ST-SEMANTIC-TRANS
+    imports ST-SEMANTIC-FUN
+endmodule
