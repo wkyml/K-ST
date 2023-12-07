@@ -18,6 +18,6 @@ krun XXXX.st
 ```
 
 ## 4. Detailed information
-Please refer to [https://arxiv.org/abs/2202.04076.](https://ieeexplore.ieee.org/abstract/document/10251676)https://ieeexplore.ieee.org/abstract/document/10251676
+Please refer to [https://ieeexplore.ieee.org/abstract/document/10251676]
 
 
