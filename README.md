@@ -18,6 +18,6 @@ krun XXXX.st
 ```
 
 ## 4. Detailed information
-Please refer to [https://ieeexplore.ieee.org/abstract/document/10251676]
+Please refer to "K-ST: A Formal Executable Semantics of the Structured Text Language for PLCs"(https://ieeexplore.ieee.org/abstract/document/10251676)
 
 
