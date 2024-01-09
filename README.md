@@ -13,6 +13,8 @@ You can simply run
   kompile st.k
 ```
 
+The complied K-ST can be downloaded through : https://pan.baidu.com/s/10b6vg22yOXCiwH9Fzhv1wQ?pwd=8y1w
+
 ## 3. Run ST program
 You can simply run
 ```c
