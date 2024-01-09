@@ -1,0 +1,12 @@
+PROGRAM MAIN
+VAR
+   i : BOOL := TRUE;
+END_VAR
+
+IF i THEN
+   EXIT;
+END_IF;
+
+
+
+END_PROGRAM
