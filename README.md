@@ -3,7 +3,8 @@
 by Kun Wang, Jingyi Wang, Christopher M. Poskitt, Xiangxiang Chen, Jun Sun, and Peng Cheng
 
 ## 1. Requirements
-K-framework version 5.1.11
+K-framework version 5.1.11 
+
 Java 8.*
 
 ## 2. Compile K_ST
